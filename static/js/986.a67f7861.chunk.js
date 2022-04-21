@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhello_world=self.webpackChunkhello_world||[]).push([[986],{986:function(e,l,r){r.r(l);r(791);var n=r(184);l.default=function(){return(0,n.jsx)("h1",{children:"Andres Marquez"})}}}]);
+//# sourceMappingURL=986.a67f7861.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhello_world=self.webpackChunkhello_world||[]).push([[963],{963:function(e,u,l){l.r(u);l(791),l(184);u.default=function(){return setTimeout((function(){}),5e3)}}}]);
+//# sourceMappingURL=963.f2b6c2d5.chunk.js.map
